@@ -11,7 +11,7 @@ Frontend (React) and another backend (Spring Boot) will consume these APIs.
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/<your_repo>/cafe_backend.git
+git clone https://github.com/xojiakbarasamoff/cafe_backend.git
 cd cafe_backend
 2️⃣ Create and Activate Virtual Environment
 bash
